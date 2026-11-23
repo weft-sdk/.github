@@ -78,7 +78,7 @@ weft init
 
 ## What you get
 
-| | |
+| Feature | What it means |
 | --- | --- |
 | **One API** | `weft.http`, `weft.kafka` and the rest work the same way, in every language |
 | **Typed end to end** | The sender and every receiver share the generated types |
@@ -114,7 +114,7 @@ The contract language already describes all thirteen transports. The libraries b
 
 ## Repositories
 
-| | |
+| Repository | What is in it |
 | --- | --- |
 | [**weft**](https://github.com/weft-sdk/weft) | The compiler and CLI, the TypeScript and Go packages, the conformance suite, the website and the docs |
 
