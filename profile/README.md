@@ -161,6 +161,12 @@ The same contracts also target **Python, JVM, .NET, Rust, Ruby, PHP, Elixir, Swi
 | Repository | What is in it |
 | --- | --- |
 | [**weft**](https://github.com/weft-sdk/weft) | The compiler and CLI, the TypeScript and Go packages, the conformance suite, the website and the docs |
+| [**examples**](https://github.com/weft-sdk/examples) | Runnable projects: a TypeScript service and a Go service that share one contract over HTTP and Kafka |
+| [**action**](https://github.com/weft-sdk/action) | A GitHub Action that catches breaking contract changes, stale generated code and unformatted contracts |
+| [**vscode-weft**](https://github.com/weft-sdk/vscode-weft) | VS Code support for `.weft` files: highlighting, snippets and formatting |
+| [**tree-sitter-weft**](https://github.com/weft-sdk/tree-sitter-weft) | A tree-sitter grammar for the contract language, for Neovim, Helix and Zed |
+| [**homebrew-tap**](https://github.com/weft-sdk/homebrew-tap) | `brew install weft-sdk/tap/weft` |
+| [**brand**](https://github.com/weft-sdk/brand) | The logo, the colours and the social preview image |
 
 <br>
 
